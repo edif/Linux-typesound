@@ -1,5 +1,5 @@
 # Linux-typewriter
-Make you keyboard sound like an old typewriter.
+Make you keyboard play sounds.
 
 ## v2
 Normal typewriter sounds.  
