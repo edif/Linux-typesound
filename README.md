@@ -1,5 +1,13 @@
-# Linux-typesounds
+# Linux-typesound
 Make you keyboard play sounds.
+
+#### Dependencies:
+- python 2.7.*
+##### Mods:
+- struct
+- sys
+- os
+- pygame
 
 ## v2
 Normal typewriter sounds.  
