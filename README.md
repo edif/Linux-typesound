@@ -1,3 +1,5 @@
+forked from [Linuxleech/Linux-typewriter](https://github.com/Linuxleech/Linux-typewriter)
+
 # Linux-typesound
 Make you keyboard play sound.
 

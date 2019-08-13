@@ -13,7 +13,8 @@ except ImportError:
 #check for sudo
 if os.getuid() != 0:
     exit("You need to run this script as root. 'sudo ./keyboardSound-v2.py'")
-
+#solve latency (frequency=44100, size=-16, channels=2, buffer=512, devicename=None)
+pygame.mixer.pre_init(44100, -16, 1, 64)
 #pygame sound setup
 pygame.mixer.init()
 soundObj = pygame.mixer.Sound('Air-horn.ogg')
