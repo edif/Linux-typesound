@@ -1,4 +1,4 @@
-# Linux-typewriter
+# Linux-typesounds
 Make you keyboard play sounds.
 
 ## v2
