@@ -1,5 +1,5 @@
 # Linux-typesound
-Make you keyboard play sounds.
+Make you keyboard play sound.
 
 #### Dependencies:
 - python 2.7.*
